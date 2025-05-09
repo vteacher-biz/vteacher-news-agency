@@ -168,7 +168,7 @@ AIエージェントとの対話を開始します！
 （JSONは他のMCPサーバーと併用可能ですので、追記する形で問題ありません）
 
 - ~~[公式] https://github.com/modelcontextprotocol/servers/tree/main/src/github~~
-- [公式] http://github.com/github/github-mcp-server
+- [公式] https://github.com/github/github-mcp-server
 
 ```json
 {
