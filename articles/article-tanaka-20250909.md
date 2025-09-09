@@ -26,7 +26,7 @@ published: false # 公開設定（falseにすると下書き）
 
 ## 1. エージェントが請求書を改ざんしたという報告
 
-![](articles/article-tanaka-20250909/report01.png)
+![](https://github.com/vteacher-biz/vteacher-news-agency/blob/main/articles/article-tanaka-20250909/report01.png)
 
 最近知名度を上げているエージェント会社に関するトラブルの報告です。
 以下、Aエージェント会社とします。
@@ -45,7 +45,7 @@ https://www.gov-online.go.jp/article/201504/entry-8354.html
 
 ## 2. 「同意しろ！」と自宅まで押しかけられたという報告
 
-![](articles/article-tanaka-20250909/report02.png)
+![](https://github.com/vteacher-biz/vteacher-news-agency/blob/main/articles/article-tanaka-20250909/report02.png)
 
 これも広く知られた某エージェント会社のトラブル事例です。
 以下、Bエージェント会社とします。
@@ -64,7 +64,7 @@ https://freelance110.mhlw.go.jp/
 
 ## 3. 常駐先が偽装請負だったという報告
 
-![](articles/article-tanaka-20250909/report03.png)
+![](https://github.com/vteacher-biz/vteacher-news-agency/blob/main/articles/article-tanaka-20250909/report03.png)
 
 こちらも有名なエージェント会社（以下、Cエージェント会社）とのトラブル事例です。
 常駐先が偽装請負であった例です。
